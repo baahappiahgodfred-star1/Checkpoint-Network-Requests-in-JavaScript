@@ -39,7 +39,7 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Sylviedistribution/Checkpoint-Network-Requests-in-JavaScript.git
+git clone https://github.com/baahappiahgodfred-star1/Network_Requests_in_JavaScript_checkpoint-.git
 ```
 
 ### 2. Open the project
@@ -99,4 +99,4 @@ Or use the "Ma position" button to get weather based on your current location.
 
 ## Author
 
-Sylvestre
+Godfred
